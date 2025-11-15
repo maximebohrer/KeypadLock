@@ -149,7 +149,7 @@ Electric schematic and PCB
 The electric schematic and PCB were created using EasyEDA and printed by JLCPCB.
 
 ![Electric schematic](electric_circuit/schematic.png)
-![PCB](electric_circuit/PCB.png)
+![PCB](electric_circuit/pcb.png)
 
 3D models
 ---------
